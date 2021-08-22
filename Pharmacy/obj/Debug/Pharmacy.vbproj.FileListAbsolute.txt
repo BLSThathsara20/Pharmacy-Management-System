@@ -1,0 +1,37 @@
+E:\Visual Studio\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\Visual Studio\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\Visual Studio\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\Visual Studio\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbprojAssemblyReference.cache
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Front.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.cache
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.CoreCompileInputs.cache
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Login.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Menu.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Medicine.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Manufacture.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Agent.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Bill.resources
+E:\Visual Studio\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FrmMenu.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbprojAssemblyReference.cache
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Agent.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Bill.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FrmMenu.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Login.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Manufacture.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Medicine.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.cache
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.CoreCompileInputs.cache
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\HNDIT\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLoading.resources
